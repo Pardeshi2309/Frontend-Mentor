@@ -10,10 +10,10 @@ function App() {
         <span className="text-white py-5">"Front-end developer and avid reader."</span>
         <div className="flex items-center justify-center flex-col gap-5 w-full">
           <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='GitHub'>GitHub</a>
-          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='GitHub'>Frontend Mentor</a>
-          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='GitHub'>LinkedIn</a>
-          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='GitHub'>Twitter</a>
-          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='GitHub'>Instagram</a>
+          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='frontend'>Frontend Mentor</a>
+          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='linkedin'>LinkedIn</a>
+          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='twitter'>Twitter</a>
+          <a className='text-white text-center w-full py-2 bg-[#333333] rounded-md' href='instagram'>Instagram</a>
         </div>
       </div>
     </div>
