@@ -3,7 +3,7 @@ import image from './image.jpeg';
 function App() {
   return (
     <div className="flex items-center justify-center">
-      <div className=" bg-[#1E1E1E] flex items-center justify-start p-10 max-w-[375px] w-[400px] h-screen text-white rounded-2xl flex-col border">
+      <div className=" bg-[#1E1E1E] flex items-center justify-start p-10 min-w-[375px] max-w-[440px] w-[400px] h-screen text-white rounded-2xl flex-col border">
         <img className="rounded-full object-contain h-30 w-20" src={image} alt="img" />
         <h2 className="font-bold text-[20px] mt-10">Jessica Randall</h2>
         <h3 className="text-[#C4F82A] mt-2 font-bold">London,United Kingdom</h3>
